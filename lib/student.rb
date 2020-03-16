@@ -1,4 +1,4 @@
-require_relative "../config/environment.rb"
+drequire_relative "../config/environment.rb"
 require 'pry'
 
 class Student
